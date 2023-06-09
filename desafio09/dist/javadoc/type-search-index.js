@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"capitulo09","l":"ArithmeticExeption"},{"p":"capitulo09","l":"Funcionarios"},{"p":"capitulo09","l":"GFG"},{"p":"capitulo09","l":"OtherGFG"},{"p":"capitulo09","l":"testeDeLog"}]
